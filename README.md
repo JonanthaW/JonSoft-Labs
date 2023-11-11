@@ -29,3 +29,11 @@ Estes são os video-games que escolhi para <sub>tentar</sub> estudar e fazer con
 - [ ] Playstation
 - [ ] Game Boy Advanced
 - [ ] PC (Genérico com alguma engine)
+
+## Atualmente:
+
+No momento estou aprendendo 6502 assembly.
+
+## Referências:
+
+* https://codeburst.io/an-introduction-to-6502-assembly-and-low-level-programming-7c11fa6b9cb9
