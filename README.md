@@ -1,7 +1,7 @@
 # JonSoft-Labs
 
 <p align="center">
-  <img src="https://github.com/JonanthaW//JonSoft-Labs/blob/main/assets/logo.png">
+  <img src="https://github.com/JonanthaW//JonSoft-Labs/blob/main/assets/logo/logo.png">
 </p>
 
 ## Disclaimer
