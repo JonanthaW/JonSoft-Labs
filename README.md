@@ -1,8 +1,7 @@
 # JonSoft-Labs
 
-<p align="center">
-  <img src="https://github.com/JonanthaW//JonSoft-Labs/blob/main/assets/logo/logo.png">
-</p>
+![JonSoft-Labs](https://github.com/JonanthaW/JonSoft-Labs/blob/main/assets/logo/logo.png)
+
 
 ## Disclaimer
 Neste repositório estarão jogos que criei para estudar low-level programming e algo mais voltado aos velhos processadores e a história de jogos em geral.
