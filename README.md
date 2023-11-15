@@ -35,6 +35,7 @@ Estes são os video-games que escolhi para <sub>tentar</sub> estudar e fazer con
 ## Atualmente:
 
 No momento estou aprendendo 6502 assembly.
+* https://github.com/JonanthaW/6502-assembly
 
 ## Referências:
 
